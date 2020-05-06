@@ -1,6 +1,6 @@
 # vislice
 
-Borut Pahor
+Janez Janša
 Ivan Vidav
 Josim Plemelj
 Jurij Vega
